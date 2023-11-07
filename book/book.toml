@@ -3,10 +3,10 @@ authors = ["Paul ADAM"]
 language = "fr"
 multilingual = false
 src = "src"
-title = "HyperAST book"
+title = "Sinfonie ENS Rennes"
 
 [output.html.fold]
-enable = false
+enable = true
 
 [output.html]
 git-repository-url = "https://github.com/pauladam94/Sinfonie.io"
